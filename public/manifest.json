@@ -1,0 +1,18 @@
+{
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Waifu",
+    "short_name": "Waifu",
+    "description": "Waifu",
+    "icons": [
+      {
+        "src": "/icon512_rounded.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
